@@ -30,16 +30,6 @@ Authentication: JWT, Cookies
 
 Other Tools: Body-parser, CORS, dotenv
 
-🚀 Usage
-
-Access the platform via frontend URL (e.g., http://localhost:3000)
-
-Signup or login to access the dashboard
-
-View holdings, positions, and portfolio performance
-
-Add or manage stocks in your portfolio
-
 💡 Skills Gained
 
 Full-stack development with MERN stack
